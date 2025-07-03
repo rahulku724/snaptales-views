@@ -1,0 +1,1 @@
+# snaptales-views
